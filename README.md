@@ -1,9 +1,11 @@
 # LICENSE
 
 Gurm License
+
 version 1.0
 
 Gurm Studios, Inc. and subsidiaries
+
 No changes are permitted to this document.
 
 
