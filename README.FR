@@ -5,8 +5,9 @@ Gurm Studios, Inc. et ses filiales
 Aucune modification n'est autorisée à ce document.
 
 
-Cette licence est pour Gurm Studios, Inc. et ne doit pas être utilisée par des organisations ou des individus autres que des filiales.
+1. Cette licence est pour Gurm Studios, Inc. et ne doit pas être utilisée par des organisations ou des individus autres que des filiales.
 
-Le travail sous cette licence appartient à Gurm Studios, Inc. ne doit pas être utilisé à des fins commerciales par des organisations ou des individus autres que des filiales.
+2. Le travail sous cette licence appartient à Gurm Studios, Inc. ne doit pas être utilisé à des fins commerciales par des organisations ou des individus autres que des filiales.
 
-Si vous utilisez une œuvre à laquelle cette licence s'applique, assurez-vous d'en indiquer la source.
+3. Si vous utilisez une œuvre à laquelle cette licence s'applique, assurez-vous d'en indiquer la source.
+
